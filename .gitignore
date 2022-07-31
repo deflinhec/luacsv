@@ -1,0 +1,7 @@
+/*.csv
+/*.lua
+/logs/*
+/*.exe
+/.vscode/*
+/assets/*.go
+/build/*
